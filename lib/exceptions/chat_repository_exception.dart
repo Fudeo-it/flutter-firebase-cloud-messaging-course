@@ -1,0 +1,1 @@
+class ChatRepositoryException implements Exception {}
